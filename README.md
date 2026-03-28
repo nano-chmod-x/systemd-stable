@@ -16,6 +16,10 @@ System and Service Manager
 [![Packaging status](https://repology.org/badge/tiny-repos/systemd.svg)](https://repology.org/project/systemd/versions)</br>
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/systemd/systemd/badge)](https://securityscorecards.dev/viewer/?platform=github.com&org=systemd&repo=systemd)
 
+```
+git clone https://github.com/nano-chmod-x/systemd-stable.git
+```
+
 ## Details
 
 Most documentation is available on [systemd's web site](https://systemd.io/).
